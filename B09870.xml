@@ -1,0 +1,583 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le vray, et le faux jubilé, en deux sermons sur ces paroles du XXV du Levitique Vers. XII ; cette année est le jubilé, elle vous sera sainte ; prêchez à Londres dans l'Eglise Angloise &amp; Paroissiale de Sainte Benet-Sinck proche la bourse &amp; dans une annexe de S. Martin in the Fields / par Mr. Renoult.</title>
+            <author>Renoult, Jean-Baptiste, b. ca. 1664.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 72 KB of XML-encoded text transcribed from 32 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09870</idno>
+            <idno type="STC">Wing R1039A</idno>
+            <idno type="STC">ESTC R182630</idno>
+            <idno type="EEBO-CITATION">64551676</idno>
+            <idno type="OCLC">ocm 64551676</idno>
+            <idno type="VID">184761</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09870)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184761)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2871:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Le vray, et le faux jubilé, en deux sermons sur ces paroles du XXV du Levitique Vers. XII ; cette année est le jubilé, elle vous sera sainte ; prêchez à Londres dans l'Eglise Angloise &amp; Paroissiale de Sainte Benet-Sinck proche la bourse &amp; dans une annexe de S. Martin in the Fields / par Mr. Renoult.</title>
+                  <author>Renoult, Jean-Baptiste, b. ca. 1664.</author>
+               </titleStmt>
+               <extent>[8], 55 p.   </extent>
+               <publicationStmt>
+                  <publisher>Pour D. Du Chemin ...,</publisher>
+                  <pubPlace>A Londres :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="fre">fre</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Leviticus, XXV, 12 --  Sermons.</term>
+               <term>Sermons, French --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="fre">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:184761:1"/>
+            <pb facs="tcp:184761:1" rendition="simple:additions"/>
+            <p>LE VRAY, ET LE FAUX JUBILE, EN Deux SERMONS Sur ces Paroles du XXV. du Levitique Verſ. XII.
+<hi>Cette Année eſt le Jubilé, elle vous ſera Sainte.</hi> Prêchez à Londres, dans l'Egliſe Angloiſe &amp; Paroiſſiale de Saint <hi>Be<g ref="char:EOLhyphen"/>net-Sinck,</hi> proche la Bourſe, &amp; dans une Annexe de S. Martin <hi>in the Fields.</hi>
+            </p>
+            <p>Par Mr. RENOULT, Miniſtre, &amp; cy-devant Predicateur en l'Egliſe Romaine.</p>
+            <p>
+               <hi>A LONDRES,</hi> Pour D. DU CHEMIN, Marchand Libraire dans le <hi>Strand,</hi> vis-à-vis <hi>Somerſet-Houſe,</hi> au Sacrifice d'Abraham. 1700.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:184761:2"/>
+            <pb facs="tcp:184761:2"/>
+            <head>A MONSEIGNEUR, LE BARON DE HAVESHAM GRAND CHANCELIER D'ANGLETERRE.</head>
+            <p>
+               <seg rend="decorInit">Q</seg>UOY que Vôtre Grandeur ſoit inceſſement occupée des affaires les plus importantes de l'Etat, Elle ne laiſſe pas neanmoin, d'entrer en connoiſſances des matieres de Religion, par un veri<g ref="char:EOLhyphen"/>table
+<pb facs="tcp:184761:3"/>deſir de connoître le chemin du Ciel. L'on peut même dire, que nô<g ref="char:EOLhyphen"/>tre <hi>Auguſte Monarque,</hi> ne vous a confié celles la, que parce qu'il a re<g ref="char:EOLhyphen"/>marqué que celles-cy vous étoient che<g ref="char:EOLhyphen"/>res. <hi>Ce Grand Roy</hi> eſt trop éclairé pour ignorer qu'un homme qui auroit de l'indiference pour ſon Dieu, ne pou<g ref="char:EOLhyphen"/>roit ſervir ſon Prince avec une fidelité inviolable. Si donc vous vous étes ac<g ref="char:EOLhyphen"/>quis l'eſtime &amp; la confiance de ſa <hi>Ma<g ref="char:EOLhyphen"/>jeſté;</hi> &amp; ſi elle vous a élevé à la Pre<g ref="char:EOLhyphen"/>miere Charge du Royaume, c'eſt qu'elle a vû en vous, non ſeulement cette penetration, cette activité, cette pro<g ref="char:EOLhyphen"/>fonde érudition, cette prudence, &amp; toutes les autres qualitez qui font l'ha<g ref="char:EOLhyphen"/>bile Magiſtrat; mais auſſi cette honne<g ref="char:EOLhyphen"/>teté, cette équité, cette probité, ce zele, cette preté, &amp; toutes les vertus qui font le Chrêtien.</p>
+            <p>L'on ne ſçauroit donc trouver étran<g ref="char:EOLhyphen"/>ge, <hi>MONSEIGNEUR,</hi> que j'aille porter aux pieds de vôtre Gran<g ref="char:EOLhyphen"/>deur, des Diſcours qui ont pour but, de ſoutenir également, &amp; le Sanctuaire, &amp; le Senat. Ceux qui ſeroient capa<g ref="char:EOLhyphen"/>bles
+<pb facs="tcp:184761:3"/>de m'accuſer de temerité, pour avoir mis vôtre Illuſtre Nom à la tête d'un ſi petit ouvrage, ont, de vô<g ref="char:EOLhyphen"/>tre Grandeur, des idées toutes diffe<g ref="char:EOLhyphen"/>rentes, de celles qu'ils en auroient, s'ils avoient eu l'honneur de l'approcher de près. Qui eſt celuy qui a eu quel<g ref="char:EOLhyphen"/>que accez auprès de vous, ou qui en ait ſeulement ouï parler comme il faut, qui puiſſe ignorer que Vôtre Modera<g ref="char:EOLhyphen"/>tion égale Vôtre Fortune? Je ſuis donc perſuadé, que ſi d'un côté, les lumieres de Vôtre Eſprit, ne remar<g ref="char:EOLhyphen"/>quent pas dans ces deux Diſcours, tous les ornemens qu'une plume diſerte, &amp; une langue éloquente, auroient pû leur donner; de l'autre côté vôtre charité vous obligera d'en excuſer les deffauts, en conſideration du ſujet important que je traite.</p>
+            <p>Ce ſujet eſt grand, <hi>Monſeigneur,</hi> il s'agit de nôtre Paix, &amp; de nòtre reconciliation avec Dieu, de nôtre ſouveraine &amp; éternelle felicité. Cette matiere vous ſera d'autant plus agréa<g ref="char:EOLhyphen"/>ble, que ce fut par elle que commença la Reformation, &amp; que ça été pour
+<pb facs="tcp:184761:4"/>cette celeſte &amp; divine verité, que les glorieux Anceſtres du Prince duquel les intereſts vous ſont ſi ſacrez, ont ac<g ref="char:EOLhyphen"/>quis tant de Couronnes, de Loüanges Immortelles, &amp; que tant d'Illuſtres Fidelles de vôtre Nation, ont ſouffert le Martyre. J'ay auſſi pris ſoin de de<g ref="char:EOLhyphen"/>couvrir aux Etats, la ſource de leurs plus grands malheurs, &amp; arrachant le maſque dont le Papiſme ſe cache le viſage, j'expoſe aux yeux de tout l'U<g ref="char:EOLhyphen"/>nivers, ſes plus horribles taches.</p>
+            <p>Ainſi j'oſe eſperer, <hi>Monſeigneur,</hi> que Vôtre Grandeur, imitant ce grand
+<note n="†" place="bottom">
+                  <hi>Elien, Liv.</hi> 1. <hi>chap.</hi> 32.</note> Prince, qui reçût avec une extre<g ref="char:EOLhyphen"/>me bonté, un peu d'eau qu'un de ſes ſujets luy offroit dans les paumes de ſes deux maeins, parce qu'elle avoit été priſe dans un Fleuve qui portoit le nom, du premier, &amp; du plus Illuſtre Monarque des Perſes: Acceptera ce preſent, indigne d'elle à la verité, par rapport à celuy qui a la hardieſſe de le faire, mais parce que ce qu'il y a de plus excellent, a été puiſſé,
+<pb facs="tcp:184761:4"/>dans la divine ſource des Ecritures, dans le Fleuve de Vie, qui procede du Trône de Dieu &amp; de l'Agneau.</p>
+            <p>Dieu veuille, <hi>Monſeigneur,</hi> qu'à la faveur de Vôtre Auguſte Nom, ces deux Jubilez ſe rependent dans tous les lieux où domine la Meurtriere des Saints, &amp; tirer de l'erreur, tant de pauvres Peuples abuſez, qu'un Chef avare &amp; ambiticux, entraine dans la perdition. Si le Ciel n'exaute pas cette Priere que je luy faits, au moins les deux Diſcours ſeront à ja<g ref="char:EOLhyphen"/>mais deux Fideles témoins, de la pro<g ref="char:EOLhyphen"/>fonde veneration que j'ay pour vôtre pretieuſe perſonne, &amp; du reſpect avec lequel je ſuis,</p>
+            <closer>
+               <salute>MONSEIGNEUR,</salute>
+               <signed> De Vôtre Grandeur, Le três-humble &amp; très<g ref="char:EOLhyphen"/>obeïſſant Serviteur, RENOULT.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:184761:5"/>
+            <pb n="1" facs="tcp:184761:5"/>
+            <head>LE VRAY JUBILE OU Premier SERMON Sur ces Paroles du XXV. du Levitique Verſ. XII.
+<q>Cette Année eſt le Jubilé, elle vous ſera Sainte.</q>
+            </head>
+            <p>
+               <seg rend="decorInit">Q</seg>UOY done? Faut-il que la Verité ſoit müette, pen<g ref="char:EOLhyphen"/>dant que l'erreur ſonne la trompette &amp; aſſemble de de toutes parts ſes combatans ſous ſon étendart? Sion s'eſt elle done épuiſée; &amp; tandis que Babylone pro<g ref="char:EOLhyphen"/>digue ſes fauſſes faveurs, Jeruſa<g ref="char:EOLhyphen"/>lem
+<pb n="2" facs="tcp:184761:6"/>n'en diſtribüera-t-elle point de veritables? L'Evangile eſt-il donc déchû de ſes droits, le Ciel auroit-il revoqué ſes privileges, pour en re<g ref="char:EOLhyphen"/>vêtir une fauſſe tradition? Les He<g ref="char:EOLhyphen"/>rauts de Chriſt mettront ils le doigt ſur la bouche, &amp; garderont-ils un morne ſilence, pendant que dans ces jours tenebreux, la bête ouvre ſa bouche en blaſphemes contre Dieu, contre ſon nom, <note n="†" place="bottom">
+                  <hi>Apoc.</hi> 23.</note> contre ſon taberna<g ref="char:EOLhyphen"/>cle, &amp; contre ceux qui ſont au Ciel? En un mot, lors que des loups affa<g ref="char:EOLhyphen"/>mez devorent un ſi grand nombre de pauvres brebis, &amp; que Rome en-yvre les Nations du vin de ſes paillardiſes; les vrais Paſteurs doivent-ils negliger de recueillir autour de la Croix de Chriſt, leurs troupeaux diſperſez, &amp; de leur crier avec le Prophete Eſaïe, <note n="*" place="bottom">
+                  <hi>Eſ.</hi> 55.</note> 
+               <hi>O vous tous qui étes alterez, venez aux eaux, méme vous qui n'avez point d'argent, venez, achetez &amp; mangez, venez, dis je, achetez ſans argent &amp; ſans aucun prix. Pourquoy em<g ref="char:EOLhyphen"/>ployez
+<pb n="3" facs="tcp:184761:6"/>vous vôtre argent pour ce qui ne nourrit point, &amp; vôtre travail pour ce qui ne raſſaſie point? Ecoutez moy ſincerement, &amp; vous mangerez de ce qui eſt bon, &amp; vôtre ame jouïra à plai<g ref="char:EOLhyphen"/>ſir de la graiſſe: Inclinez vôtre oreille &amp; venez à moy, &amp; vôtre ame vivra, &amp; je traiteray avec vous une alliance éternelle, ſçavoir les gratuitez aſſu<g ref="char:EOLhyphen"/>rées faites à David.</hi>
+            </p>
+            <p>Mes Freres, ne vous imaginez pas qu'il n'y ait que Rome qui ait le privilege d'avoir un Jubilé, &amp; qu'il ſoit neceſſaire de traverſer les mers, ou de paſſer les Alpes pour y avoir part. Aujourd'huy au nom &amp; en l'authorité de Jeſus Chriſt,
+<note n="†" place="bottom">2 <hi>Cor.</hi> 5.</note> 
+               <hi>qui a mis en nous la parole de recon<g ref="char:EOLhyphen"/>ciliation,</hi> nous publions au ſon de la trompette Evangelique, les grands &amp; veritables pardons, les celeſtes &amp; divines Indulgences; &amp; pour le dire en deux mots,
+<hi>Cette Année eſt le Ju<g ref="char:EOLhyphen"/>bilé, elle vous ſera Sainte.</hi>
+            </p>
+            <p>Il eſt étonnant que tant de gens
+<pb n="4" facs="tcp:184761:7"/>parlent aujourd'huy du Jubilé, ſans ſçavoir ce que c'eſt; Demandez à tous ces pelerins abuſez, qu'une ſu<g ref="char:EOLhyphen"/>perſticieuſe Comedie attire de toutes parts à Rome: demandez à tous les Catholiques Romains, ce que c'eſt que le Jubile, de cent, à peine en trou<g ref="char:EOLhyphen"/>verez vous quatre-vingt-dix-neuf qui en ayent ſeulement une idée confuſe; &amp; celuy qui pourra vous répondre, aura honte de le faire. Mais auſſi demandez à la plupart de nos peu<g ref="char:EOLhyphen"/>ples, ce que c'eſt que le Jubilé, &amp; vous verrez que le pius grand nom<g ref="char:EOLhyphen"/>bre, n'a, du faux Jubilé, qu'une con<g ref="char:EOLhyphen"/>noiſſance trop generale, laquelle ne luy en inſpire pas aſſiz d'horreur, &amp; qu'il n'a pas, du vray Jubilé, une con<g ref="char:EOLhyphen"/>noiſſance aſſez diſtincte pour bien ſe diſpoſer à le gagner.</p>
+            <p>Cela étant ainſi, nous avons crû ne pouvoir choiſir de texte plus con<g ref="char:EOLhyphen"/>venable à ce temps, auquel toutes les converſations roulent ſur le Jubilé, que celuy dont vous venez d'enten<g ref="char:EOLhyphen"/>dra la lecture. Pour vous en don<g ref="char:EOLhyphen"/>ner la vraye intelligence, nous exa<g ref="char:EOLhyphen"/>minerons
+<pb n="5" facs="tcp:184761:7"/>le principe &amp; la conſequen<g ref="char:EOLhyphen"/>ce dont ce texte eſt compoſé;
+<hi>Cette Année eſt le Jubilé:</hi> Voila le princi<g ref="char:EOLhyphen"/>pe: <hi>Elle vous ſera Sainte;</hi> Voila la conſequence. Dieu veuille benir nô<g ref="char:EOLhyphen"/>tre Meditation, &amp; la faire reüſſir à ſa gloire, à l'édification de l'Egliſe, &amp; à la confuſion de l'erreur. <hi>Amen.</hi>
+            </p>
+            <p>
+               <hi>Cette Année eſt le Jubilé,</hi> C'eſt ce que les Juifs publioient autrefois de cinquante en cinquante ans. C'eſt ce que Rome publie à preſent de 25. en 25 ans. C'eſt ce que l'Egliſe Chre<g ref="char:EOLhyphen"/>tienne à droit de publier tous les ans. Ainſi donc pour vous donner une idée nette &amp; diſtincte du Jubilé, nous ſommes obligez de vous le faire con<g ref="char:EOLhyphen"/>ſiderer par raport à trois Religions differentes.</p>
+            <p n="1">1. Par raport à la Religion Mo<g ref="char:EOLhyphen"/>ſaïque. 2. Par raport à la Religion Chrêtienne. 3. Par raport à la Re<g ref="char:EOLhyphen"/>ligion Romaine. Le Jubilé Judaï<g ref="char:EOLhyphen"/>que &amp; le Jubilé Chrêtien ont Dieu pour autheur, ils ſont également ve<g ref="char:EOLhyphen"/>nus du Ciel; mais le Jubilé Romain à pris naiſſance en Italie, &amp; été conçû
+<pb n="6" facs="tcp:184761:8"/>dans le cerveau d'un des plus mé<g ref="char:EOLhyphen"/>chans hommes qui ait jamais vecu ſur la terre. C'eſt ce qu'il faut exa<g ref="char:EOLhyphen"/>miner pour bien comprendre ce que c'eſt que le Jubilé: Mais aujourd'huy nous ne traiterons que du Jubilé Ju<g ref="char:EOLhyphen"/>daïque &amp; du Jubilé Chrêtien; &amp; dans 15 jours, s'il plaît au Seigneur, nous n'oublierons rien de ce qui ſera neceſſaire pour vous tracer le vray ta<g ref="char:EOLhyphen"/>bleau du Jubilé Romain. Commen<g ref="char:EOLhyphen"/>çons par le Jubilé Moſaïque. Voicy en deux mots ce que c'étoit.</p>
+            <p>Dieu avoit commandé à ſon Peu<g ref="char:EOLhyphen"/>ple de laiſſer repoſer la terre de 7 ans en
+7 ans, &amp; <note n="†" place="bottom">
+                  <hi>Levitiq.</hi> 25.</note> qu'à la fin de ſept ſe<g ref="char:EOLhyphen"/>maines d'années qui revenoient à 49. ans, l'on ſonnàt, par tout le Païs, la trompette de Jubilation, &amp; que l'on ſantifiàt l'année cinquantiéme, qui s'appelloit l'année du Jubilé. On luy donna ce nom de Jubilé, de ce que la publication de cette Année Sainte ſe faiſoit au ſon d'un cornet, que les Hebreux appellent <hi>Jobel.</hi> Telle eſt l'origine du nom &amp; de la choſe. De
+<pb n="7" facs="tcp:184761:8"/>la maniere que Moïſe parle de ce Ju<g ref="char:EOLhyphen"/>bilé, il eſt certain que Dieu l'hono<g ref="char:EOLhyphen"/>roit de grandes faveurs, &amp; y atta<g ref="char:EOLhyphen"/>choit de beaux privileges. Alors tous les pauvres Juifs, que la miſere avoit forcez à vendre leur liberté, avoient la conſolation de voir finir leur eſcla<g ref="char:EOLhyphen"/>vage: Alors les exilez étoient rapel<g ref="char:EOLhyphen"/>lez, chacun pouvoit avec ſureté, re<g ref="char:EOLhyphen"/>voir ſa patrie; il n'y avoit aucun lieu où la la liberté ne fût publiée: Alors les debiteurs étoient déchargez de leurs dettes, les priſons leur étoient ouvertes, ils en ſortoient quittes, leurs creanciers ne pouvoient plus les pour<g ref="char:EOLhyphen"/>ſuivre: Alors ceux qu'une dure ne<g ref="char:EOLhyphen"/>ceſſité avoit contrains d'alliener leurs heritages, rentroient dans une paiſi<g ref="char:EOLhyphen"/>ble poſſeſſion de leur bien, ſans reſti<g ref="char:EOLhyphen"/>tuer aucun prix: Alors tous les la<g ref="char:EOLhyphen"/>boureurs &amp; vignerons, ſe repoſoient de leur travail, ou vivoit de ce que la terre avoit produit les années precedentes; ou de ce qu'elle produiſoit pour lors d'elle même, mais il n'étoit permis, ni de la cultiver, ni de moiſſonner.
+<pb n="8" facs="tcp:184761:9"/>Voila ce que c'étoit que le Jubilé Judaïque.</p>
+            <p>Encore ſi Rome qui paroît aujour<g ref="char:EOLhyphen"/>d'huy ſi jalouſe d'adopter les ceremo<g ref="char:EOLhyphen"/>nies Judaïques &amp; Payennes, celebroit quelqueſois en la place de ſon faux Jubilé, cét ancien Jubilé d'Iſraël: Bien tôt les exilez ſeroient rappellez, les captifs affranchis, les priſonniers relachez; bien tôt nos familles ſe<g ref="char:EOLhyphen"/>roient reunies, nos biens &amp; nos en<g ref="char:EOLhyphen"/>fans reſtituez, nos temples rebatis, nos ſanctuaires reparez, nos maux adoucis, nos troupeaux raſſemblez. D<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s aujourd'huy nous vous annonce<g ref="char:EOLhyphen"/>nons cette agreable nouvelle, que l'on faiſoit autrefois retentir en Iſraël, <note n="†" place="bottom">
+                  <hi>Levetiq.</hi> 25.</note>
+               <hi>En cét an du Jubilé, vous retourne<g ref="char:EOLhyphen"/>rez chacun en ſa poſſeſſion.</hi> Mais n'at<g ref="char:EOLhyphen"/>tendons jamais de Rome une telle juſtice. Le Jubilé qu'elle celebre n'eſt qu'une chymere, dont ceux qu'elle abuſe ne retirent que des faveurs chy<g ref="char:EOLhyphen"/>meriques; &amp; pour ce qui eſt de nous, nous n'en devons attendre que de ré<g ref="char:EOLhyphen"/>elles
+<pb n="9" facs="tcp:184761:9"/>fureurs. Mais venons au Jubilé Chrêtien, le Romain aura ſon lieu.</p>
+            <p>Les ceremonies de la Loy Moſaï<g ref="char:EOLhyphen"/>que n'ayant été que des ombres &amp; des figures dont nous avons <note n="†" place="bottom">
+                  <hi>Col.</hi> 2.</note> 
+               <hi>le corps &amp; la verité en Chriſt,</hi> le Ju<g ref="char:EOLhyphen"/>bilé des Juifs n'étoit que le portrait &amp; l'image du Jubilé Chrêtien, c'eſt à dire de la reconciliation des hom<g ref="char:EOLhyphen"/>mes avec Dieu, de la Redemption du genre humain. C'eſt cette recon<g ref="char:EOLhyphen"/>ciliation, c'eſt cette redemption, qui eſt le grand &amp; veritable Jubilé, l'an agreable du Seigneur, le temps de ſa bien veillance &amp; du ſalut des hom<g ref="char:EOLhyphen"/>mes. Sur quoy nous avons à faire les Reflexions ſuivantes.</p>
+            <p n="1">1. Nous allons examiner ce que c'eſt que ce Jubilé Chrêtien. 2. Quels ſont les avantages qui en reviennent. 3. Qui ſont ceux qui ont part à ces avantages. 4. En quel temps &amp; en quel lieu on peut y avoir part. 5. Ce qu'il faut faire pour le gagner.</p>
+            <p n="1">1. Pour bien comprendre ce que c'eſt que le Jubilé Chrêtien, il faut
+<pb n="10" facs="tcp:184761:10"/>reconnoître la verité de ce principe, tant de fois repeté en differens termes en l'Ecriture, ſçavoir, que nous ſom<g ref="char:EOLhyphen"/>mes tous pecheurs, &amp; que ſi Dieu nous traitoit à la rigueur de ſa juſti<g ref="char:EOLhyphen"/>ce, nous n'aurions à attendre de luy, que la mort &amp; la damnation. <note n="*" place="bottom">
+                  <hi>Rom.</hi> 5.</note> 
+               <hi>Par un homme le peché eſt entré au monde, &amp; par le peché la mort, &amp; la mort eſt parvenüe ſur tous les hommes parce que tous ont peché.
+<note n="†" place="bottom">
+                     <hi>Pſ.</hi> 14.</note> Dieu a regar<g ref="char:EOLhyphen"/>dé des cieux ſur les fils des hommes, pour voir s'il y en a quelqu'un enten<g ref="char:EOLhyphen"/>du, &amp; qui cherche Dieu, ils ſe ſont tous devoyez, &amp; ſe ſont rendus puans, il n'y a perſonne qui face bien, non pas même un ſeul. <note n="‖" place="bottom">
+                     <hi>Job</hi> 15.</note> Qu'eſt-ce que de l'homme mortel qui ſoit pur, &amp; de celuy qui eſt né de femme qui ſoit juſte? Voicy Dieu ne s'aſſure point ſur ſes Saints, &amp; les Cieux ne ſe trouvent point purs devant luy. Combien plus abominable &amp; puant l'homme qui boit l'iniquité comme l'eau?
+<note n="¶" place="bottom">
+                     <hi>Gen.</hi> 6.</note> toutes les imaginations des penſées de ſon coeur,
+<pb n="11" facs="tcp:184761:10"/>ne ſont rien que mal en tous temps.</hi> En un mot, il faut le dire avec Saint Paul; <note n="†" place="bottom">
+                  <hi>Rom.</hi> 11.</note> 
+               <hi>Dieu a tout enclos ſous le peché, afin qu'il fit miſericorde à tous.</hi>
+            </p>
+            <p>Cette fatale corruption eſt telle<g ref="char:EOLhyphen"/>ment enracinée en nous, qu'après avoir reçû la grace, nous en concer<g ref="char:EOLhyphen"/>vons toûjours les reliques, &amp; en reſſentons les effets. Dieu la voulu de la ſorte pour nous humilier. <hi>Qui eſt-ce qui,</hi> ſans prononcer un men<g ref="char:EOLhyphen"/>ſonge, <note n="*" place="bottom">
+                  <hi>Prov.</hi> 20.</note>
+               <hi>peut dire, j'ay purgé mon coeur, je ſuis net de tout peché? Je prens plaiſir à la Loy de Dieu,</hi> dit Saint Paul, <note n="‖" place="bottom">
+                  <hi>Rom.</hi>
+7.</note> 
+               <hi>quant à l'homme de dedans, mais je ſens une autre Loy en mes membres, bataillant contre la Loy de mon entendement &amp; me rendant priſonnier à la Loy du peché qui eſt en mes membres. Helas! miſerable que je ſuis, qui me delivrera du corps de cette mort? <note n="§" place="bottom">1 <hi>Ep.</hi> 1.</note> Si nous diſons que nous n'avons point de peché, nous nous ſeduiſons nous mêmes, &amp; la ve<g ref="char:EOLhyphen"/>rité
+<pb n="12" facs="tcp:184761:11"/>n'eſt point en nous,</hi> dit l'Apôtre Saint Jean. Il n'y en a done aucun de nous, qui en reconnoiſſant ſon neant &amp; ſa corruption, n'ait lieu de s'humilier devant Dieu, &amp; de s'é<g ref="char:EOLhyphen"/>crier avec le Prophete: <note n="†" place="bottom">
+                  <hi>Pſ.</hi> 130.</note> 
+               <hi>Seigneur ſi tu prens garde aux iniquitez, qui eſt-ce qui ſubfiſtera?</hi>
+            </p>
+            <p>Pour bein comprendre ce que e'eſt que le Jubilé Chrêtien, il faut encore reconoître la verité de ce ſecond prin<g ref="char:EOLhyphen"/>cipe, ſçavoir que Dieu ſeul peut nous pardonner nos pechez. <note n="*" place="bottom">
+                  <hi>Eſaie</hi> 43.</note> 
+               <hi>C'eſt moy qui efface tes forfaits pour l'amour de moy, &amp; qui n'aurai point ſouvenance de tes iniquitez.
+<note n="‖" place="bottom">
+                     <hi>Michée</hi> 7.</note> Qui eſt Dieu fort ſembla<g ref="char:EOLhyphen"/>ble à toy, qui ôte l'iniquité, &amp; paſſe par deſſus les forfaits de ton heritage?</hi> L'on trouve en l'Evangile, cette pro<g ref="char:EOLhyphen"/>poſition repetée par deux fois:
+<note n="§" place="bottom">
+                  <hi>Luc</hi> 5. <hi>Marc.</hi> 2.</note> 
+               <hi>Qui eſt-ce qui peut pardonner les pechez ſinon Dieu ſeul?</hi>
+            </p>
+            <p>La raiſon éclairée des ſeules lumie<g ref="char:EOLhyphen"/>res de la nature, eſt d'acord en cela avec l'Ecriture; c'eſt à celuy
+<pb n="13" facs="tcp:184761:11"/>qui eſt offenſé, à pardonner l'offenſe. Or Dieu eſt la partie offenſée par le peché. <note n="†" place="bottom">
+                  <hi>Pſ.</hi>
+51.</note> 
+               <hi>J'ay peché contre toy, con<g ref="char:EOLhyphen"/>tre toy proprement, &amp; ait fait ce qui eſt deplaiſant devant tes yeux.</hi> Il n'ap<g ref="char:EOLhyphen"/>partient de pardonner, qu'à celuy, à qui il appartient de <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <note n="*" place="bottom">
+                  <hi>Jacq.</hi> 4.</note> or Dieu eſt le ſeul Legiſlateu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> qui peut <hi>ſauuer &amp; détruire.</hi> Enfin vit-on ja<g ref="char:EOLhyphen"/>mais des complices ſe pardonner re<g ref="char:EOLhyphen"/>ciproquement leurs forfaits? Il fe<g ref="char:EOLhyphen"/>roit beau voir des coupeurs de bour<g ref="char:EOLhyphen"/>ſes, s'expedier reciproquement des Lettres de graces. Le pecheur ayant donc tous les hommes pour compli<g ref="char:EOLhyphen"/>ces, il n'y en a aucun dont il puiſſe attendre le pardon de ſes crimes.</p>
+            <p>Nous ſommes tous pecheurs, c'eſt nôtre premier principe: Dieu ſeulpeut nous pardonner, c'eſt nôtre ſecond principe. En qualité de pecheurs, l'Enfer eſt nôtre partage, le ſeul bras de Dieu peut nous en retirer. Rete<g ref="char:EOLhyphen"/>nez bien ces principes, ils ſerviront
+<pb n="14" facs="tcp:184761:12"/>de fondemens à nos deux diſcours. De la verité &amp; de la certitude de ces principes, depend tout ce que nous dirons dans la ſuite. Mais il en faut établir un troiſiéme qui n'eſt pas moins veritable; c'eſt que Dieu nous a pard<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> par Jeſus Chriſt, &amp; qu'en ve<gap reason="illegible" resp="#OXF" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>e ſes merites, il nous a delivrez de la mort éternelle; &amp; c'eſt ce grand pardon, &amp; cette heureuſe delivrance, que nous appellons le Jubilé Chrêtien. <note n="†" place="bottom">
+                  <hi>Actes</hi> 5.</note>
+               <hi>Jeſus eſt celuy que Dieu a élevé par ſa dextre, pour être Prince &amp; Souveur, pour donner re<g ref="char:EOLhyphen"/>pentance à Iſraël &amp; remiſſion des pechez.</hi>
+            </p>
+            <p>Afin de bien concevoir la verité de ce troiſiéme principe, ſouvenez vous des premiers Elemens de la Religion Chrêtienne, &amp; du Syſteme ſur le<g ref="char:EOLhyphen"/>quel elle eſt fondée. Dieu n'étant pas moins juſte que miſericordieux, il ſalloit ſatisfaire à ſa juſtice, ou par nous, ou par autruy; n'étant que peché &amp; corruption, nous ne pou<g ref="char:EOLhyphen"/>vions ſatisfaire de nous mêmes;
+<pb n="15" facs="tcp:184761:12"/>Mais qu'a fait Dieu? Il a envoyé ſo<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Fils au monde, qui a revêtu nôtre chair, expié nos pechez, apaiſé l'ire du Pere, ſatisfait ſa juſtice. De la même maniere que l'on mettoit au<g ref="char:EOLhyphen"/>trefois les pechez du Peuple ſur la tête de la victime que l'on alloit immoler,
+<note n="†" place="bottom">
+                  <hi>Eſaie</hi> 53.</note> 
+               <hi>ainſi l'Eternel a fait venir ſur luy l'iniquité de nous tous. <note n="*" place="bottom">
+                     <hi>Rom.</hi> 4.</note> Il a été livré pour nos offences, &amp; il eſt reſſuſcité pour nôtre juſtification,</hi> dit l'Apôtre Saint Paul. <note n="‖" place="bottom">
+                  <hi>Math.</hi> 1.</note> 
+               <hi>Tu appelleras ſon nom Jeſus,</hi> dit l'Ange à Joſeph, <hi>car il ſauvera ſon Peuple de leurs pechez. <note n="§" place="bottom">
+                     <hi>Jean</hi> 1.</note> Voilà l'Agneau de Dieu qui ôte les pechez du mode,</hi> diſoit Jean Baptiſte. <note n="¶" place="bottom">1 <hi>Ep.</hi> 2.</note> 
+               <hi>Il eſt,</hi> dit Saint Jean, <hi>la propitia<g ref="char:EOLhyphen"/>tion pour nos pechez, &amp; non ſeulement pour les nôtres, mais auſſi pour ceux de tout le monde.</hi>
+            </p>
+            <p>Cette Communion que nous avons aux ſouffrances &amp; à la mort de Jeſus Chriſt, comme aux ſources de nôtre vie, comme au principe de nô<g ref="char:EOLhyphen"/>tre bonheur, comme aux cauſes de
+<pb n="16" facs="tcp:184761:13"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ôtre felicité; eſt ce en quoy conſiſte <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> grand &amp; le veritable Jubilé, le Ju<g ref="char:EOLhyphen"/>bilé Chré;tien.</p>
+            <p>Jubilé, dont les Prophetes ont été comme autant de trompettes. Le Prophete Eſaïe ſur tout en parle avec tant de clarté, qu'il ſemble qu'il faſſe le perſonnage d'un Evangeliſte: <hi>L'Eſprit du Seigneur eſt ſur moy,</hi> dit<g ref="char:EOLhyphen"/>il, parlant en la perſonne du Chriſt à venir, <note n="†" place="bottom">
+                  <hi>Eſaie</hi>
+61.</note> 
+               <hi>Partant l'Eternel m'a Oint pour evangeliſer aux debonnaires; il m'a envoyé pour medeciner ceux qui ont le coeur froiſſé, pour publier aux captifs la liberté, &amp; aux priſonniers ouver<g ref="char:EOLhyphen"/>ture de priſon; pour publier l'an de la bienveillance de l'Eternel, &amp; le jour de la vengeance de nôtre Dieu; pour conſoler tous ceux qui menent deüil; pour mettre en avant à ceux de Sion qui meine deüil, que magnificence leur ſera donnée au lieu de Cendre; l'huile de joye au lieu de deüil, le manteau de loüange, au lieu de l'eſ<g ref="char:EOLhyphen"/>prit étourdi, tellement qu'on les appel<g ref="char:EOLhyphen"/>lera
+<pb n="17" facs="tcp:184761:13"/>les chênes de juſtice, &amp; la plan<g ref="char:EOLhyphen"/>te de l'Eternel pour s'y glorifier.</hi>
+            </p>
+            <p>Jubilé, dont Dieu publia luy mê<g ref="char:EOLhyphen"/>me la premiere nouvelle dans le Pa<g ref="char:EOLhyphen"/>radis Terreſtre, quand il predit à nos premiers parens, que la ſemen<g ref="char:EOLhyphen"/>ce de la femme briſeroit la tête du ſerpent.</p>
+            <p>Jubilé, dont les Anges ont voulu dans la plenitude des temps, être les Herauts: Car ce fut le perſonnage qu'ils firent, lors qu'à la naiſſance de Jeſus ils entonnerent ce beau Canti<g ref="char:EOLhyphen"/>que, <note n="†" place="bottom">
+                  <hi>Lue</hi> 2.</note> 
+               <hi>Gloire ſoit à Dieu aux Cieux très-hauts, &amp; en terre paix envers les hommes de bonne volonté.</hi>
+            </p>
+            <p>Jubilé, que Jeſus Chriſt en perſon<g ref="char:EOLhyphen"/>ne a voulu publier après l'avoir apor<g ref="char:EOLhyphen"/>té du Ciel; Car l'Evangile raporte que ce divin Sauveur ayant lû dans le temple, l'oracle d'Eſaïe que nous venons de citer, en fermant ſa Bible il adreſſa ces paroles à ceux qui ve<g ref="char:EOLhyphen"/>noient de l'entendre; <note n="*" place="bottom">
+                  <hi>Luc</hi> 6.</note>
+               <hi>Aujourd'huy. sette Ecriture eſt accomplie vous l'oyant.
+<pb n="18" facs="tcp:184761:14"/>Etant venu,</hi> dit Saint Paul, <note n="§" place="bottom">
+                  <hi>Ephe.</hi>
+2.</note> 
+               <hi>il a evangeliſe la paix à vous qui étiez loin, &amp; à ceux qui étoient prés.</hi>
+            </p>
+            <p>Jubilé enfin, dont les Apôtres ont annoncé les Indulgences à tous les peuples, après la reſurrection de leur Maître, Ce fut l'ordre qu'il leur don<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a luy même, lors qu'il leur dit, <hi>al<g ref="char:EOLhyphen"/>lez, enſeignez toutes les nations, les batiſant, au nom du Pere, du Fils &amp; du Saint Eſprit.</hi> Et leur ſon eſt allé par toute la terre, &amp; leurs paroles juſques au bout du monde.</p>
+            <p>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. Joignez maintenant, Mes Fre<g ref="char:EOLhyphen"/>res, vos Reflexions aux miennes, &amp; eſſayons tous enſemble de bien com<g ref="char:EOLhyphen"/>prendre, quels ſons les avantages qui nous reviennent de ce grand Ju<g ref="char:EOLhyphen"/>bilé; Par où commencerons nous, ils ſont ſans nombre?</p>
+            <p>Mon ame, reüni dans ce moment tous les pieux efforts de ton imagina<g ref="char:EOLhyphen"/>tion,
+<note n="¶" place="bottom">
+                  <hi>Pſ.</hi> 103.</note> 
+               <hi>Beni l'Eternel &amp; n'oublie pas un de ſes bien faits.</hi> Par le peché tu étois infiniment éloignée de ton Dieu, Quel affreux abîme te ſeparoit pour
+<pb n="19" facs="tcp:184761:14"/>jamais de luy! Tu n'en devois plus attendre que des maledictions &amp; des chatimens éternels, <note n="¶" place="bottom">
+                  <hi>Rom.</hi> 6.</note> 
+               <hi>Les gages du peché c'eſt la mort;</hi> mais le Jubilé Chrêtien t'a donné un Sauveur qui eſt <hi>le Dieu fort, le tout puiſſant. <note n="†" place="bottom">
+                     <hi>Jean</hi>
+1.</note> La parole de Dieu qui étoit avec Dieu, laquelle étoit Dieu, &amp; par laquelle toutes choſes ont été faites!</hi> Un Sauveur à qui
+<note n="§" place="bottom">
+                  <hi>Jean</hi> 5.</note> 
+               <hi>le Pere a donné d'avoir vie en ſoy<g ref="char:EOLhyphen"/>même, afin qu'il vivifie ceux qu'il veut!</hi> Un Sauveur qui au ſortir du ſein de ſon Pere, a été fait chair, vray Dieu &amp; vray homme, afin que participant à la nature des deux op<g ref="char:EOLhyphen"/>poſez, il les reconciliât &amp; les reünît en ſoy même! Un Sauveur qui a <note n="*" place="bottom">2 <hi>Cor.</hi> 5.</note>
+               <hi>été fait peché</hi> pour toy, <hi>afin que tu</hi> ſois <hi>Juſtice de Dieu en luy:</hi> Un Sau<g ref="char:EOLhyphen"/>veur, qui pour t'élever juſques au comble de la gloire,
+<note n="‖" place="bottom">
+                  <hi>Phil.</hi> 2.</note> 
+               <hi>s'eſt abaiſſé juſ<g ref="char:EOLhyphen"/>ques à la mort de la Croix!</hi> Con<g ref="char:EOLhyphen"/>temple donc cet adorable Crucifié; regarde ſes playes ſacrées: voila les ſources de ton ſalut; le ſang qui en
+<pb n="20" facs="tcp:184761:15"/>découle, <note n="¶" place="bottom">
+                  <hi>Heb.</hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>te netoye de tout peché:
+<note n="†" place="bottom">1 <hi>Jean</hi> 1.</note> Car ſi la cendre de la genice, &amp; le ſang de l'aſperſion purifioit autrefois les ſouil<g ref="char:EOLhyphen"/>lez quand à la chair, combien plus le ſang de Chriſt qui s'eſt offert ſoy même à Dieu ſans nulle tache, par l'eſprit éternel, purifiera-t-il les conſciences des oeuvres mortes?</hi>
+            </p>
+            <p>De là jette les yeux ſur Satan; voy combien peſantes ſont les chaînes dont il eſt chargé: comment il n'a plus de force ſur toy, que ce que ton ingratitude luy en donne; comment ce Lion qui rugit autour de toy, n<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> peut plus te devorer, ſi toy même par une infame lacheté, ne te déter<g ref="char:EOLhyphen"/>mine à être la victime de ſa rage &amp; de ſa fureur. C'eſt le Jubilé Chrêtien qui l'a ainſi deſarmé, abattu, en<g ref="char:EOLhyphen"/>chainé;
+<note n="†" place="bottom">
+                  <hi>Heb.</hi> 2.</note> 
+               <hi>Chriſt a détruit par ſa mort, celuy qui avoit l'empire de la mort, ſça<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oir le Diable, afin qu'il delivrât ceux qui par crainte de mort étoient toute leur vie aſſujetis à la ſervitude.</hi>
+            </p>
+            <p>Voi combien foible eſt le peché; comment après avoir été ſeduite par
+<pb n="21" facs="tcp:184761:15"/>ſes apas trompeurs, tu reconnois en<g ref="char:EOLhyphen"/>fin que tu as été abuſée, trouvant lieu à la repentance, &amp; un refuge aſſeuré ſous les aîles d'une miſericor<g ref="char:EOLhyphen"/>de infinie. C'eſt le Jubilé Chrêtien qui t'a donné les moyens de triom<g ref="char:EOLhyphen"/>pher de cet ennemy: <note n="†" place="bottom">
+                  <hi>Eph.</hi>
+1.</note> 
+               <hi>Par le ſang de Chriſt nous avons redemption, ſça<g ref="char:EOLhyphen"/>voir la remiſſion de nos pechez, ſelon les richeſſes de ſa grace. <note n="§" place="bottom">
+                     <hi>Heb.</hi>
+9.</note> Par le Sa<g ref="char:EOLhyphen"/>crifice de ſoy même il a aboli le peché.</hi> Voy quelle eſt maintenant la débilité du veil homme; comment il expire en toy même; le peu d'influence qu'il a ſur tes membres, le peu de force qu'il donne à ta convoitiſe, lors que tu ne changes pas la grace de Dieu en diſſolution. C'eſt le Jubilé Chrêtien qui a reduit à l'agonie cet ennemi domeſtique &amp; familier:
+<note n="¶" place="bottom">
+                  <hi>Rom.</hi> 6.</note> 
+               <hi>Chriſt a crucifié le veil homme avec luy, afin que le corps du peché ſoit détruit, &amp; que nous ne ſervions plus au peché.</hi>
+            </p>
+            <p>Voy comment a diſparu la male<g ref="char:EOLhyphen"/>diction de la Loy; Où ſont mainte<g ref="char:EOLhyphen"/>nant
+<pb n="22" facs="tcp:184761:16"/>ces éclairs, ces tonnerres, ces foudres, qui faiſoient dire à l'An<g ref="char:EOLhyphen"/>cien Peuple, que l'Eternel ne nous parle plus de peur que nous ne mou<g ref="char:EOLhyphen"/>rions? Que ſont devenus ces terri<g ref="char:EOLhyphen"/>bles châtimens, qui ſuivoient de ſi pr ès la tranſgreſſion, que le pecheur avoit à peine le temps de reſpirer en<g ref="char:EOLhyphen"/>tre le peché &amp; la mort? Tout cela à diſparu, parce qu'il n'y a plus rien à craindre, pour ceux qui gagnent les Indulgences du Jubilé Chrêtien.
+<note n="†" place="bottom">
+                  <hi>Rom.</hi> 8.</note> 
+               <hi>Il n'y a plus de condamnation pour ceux qui ſont en Jeſus Chriſt.</hi>
+            </p>
+            <p>O mon ame, que rendras tu donc au Seigneur? tous ſes bienfaits ſont ſur toy! Tu vis, &amp; tu vis pour toû<g ref="char:EOLhyphen"/>jours! Pourquoy ne mourras tu point? Qui eſt-ce qui ta delivré
+<note n="§" place="bottom">
+                  <hi>Pſ.</hi> 116.</note> 
+               <hi>cordeaux de la mort &amp; des détreſſes du ſepulchre?</hi> Pouquoy faudra-t-il que ce corps mortel que tu animes, re<g ref="char:EOLhyphen"/>cueille un jour fes cendres, &amp; re<g ref="char:EOLhyphen"/>vête l'immortalité? Pourquoy trou<g ref="char:EOLhyphen"/>veras tu dans les Cieux une maiſon éternelle, <hi>une Cité</hi> permanente,
+<pb n="23" facs="tcp:184761:16"/> 
+               <note n="†" place="bottom">
+                  <hi>Heb.</hi> 11.</note> 
+               <hi>dont Dieu eſt l'Architecte &amp; le Bâ<g ref="char:EOLhyphen"/>tiſſeur?</hi> C'eſt que par le Jubilé Chrê<g ref="char:EOLhyphen"/>tien, la ſentence de mort éternelle qui avoit été fulminée contre toy, a perdu ſa force &amp; a été revoquée. <note n="*" place="bottom">
+                  <hi>Jean</hi>
+11.</note> 
+               <hi>Chriſt eſt la Reſurrection &amp; la vie,</hi> qui vit &amp; croit en luy ne mourra point mais aura la vie éternelle.</p>
+            <p>Et toy, ô mon coeur, pourquoy eſt-tu maintenant le temple où mon Dieu veut habiter; l'unique autel ſur lequel il veut que je luy offre l'en<g ref="char:EOLhyphen"/>cent de mes prieres, &amp; le parfum de mes actions de graces; la ſeule victi<g ref="char:EOLhyphen"/>me qu'il veut que je luy immole? C'eſt que le Jubilé Chrêtien nous a donné celuy qui <note n="‖" place="bottom">
+                  <hi>Rom.</hi> 10.</note> 
+               <hi>eſt la fin de la Loy en juſtice à tout croyant;</hi> Je veux dire un Sacrificateur qui, comme Aaron, n'a pas beſoin de tranſmettre ſa Sa<g ref="char:EOLhyphen"/>crificature à des ſucceſſeurs, mais un Sacrificateur éternel, auquel Dieu a dit, <note n="¶" place="bottom">
+                  <hi>Pſ.</hi> 110.</note> 
+               <hi>Tu es Sacrifica<g ref="char:EOLhyphen"/>teur éternellement à la façon de Mel<g ref="char:EOLhyphen"/>chiſedec;</hi> Un Sacrificateur qui n'a
+<pb n="24" facs="tcp:184761:17"/>pas beſoin de ſacrifier, premierement pour ſes propres pechez, parce qu'il <note n="§" place="bottom">
+                  <hi>Heb.</hi> 7.</note> 
+               <hi>eſt Saint, Innocent, ſeparé des pe<g ref="char:EOLhyphen"/>cheurs,</hi> un Sacrificateur, qui n'é<g ref="char:EOLhyphen"/>gorge, ni boeufs, ni agneaux, ni moutons, ni taureaux, <hi>mais qui par le Sacrifice de ſoy même, a une fois comparu pour toûjours.</hi> Un Sacrifica<g ref="char:EOLhyphen"/>teur enfin, <note n="†" place="bottom">
+                  <hi>Pſ.</hi>
+103.</note> 
+               <hi>qui n'eſt point entré dans des lieux faits de main, mais dans les lieux Saints, pour y comparoître maintenant pour nous devant la face de Dieu.
+<note n="*" place="bottom">
+                     <hi>Heb.</hi> 9.</note> Car après avoir fait la propi<g ref="char:EOLhyphen"/>tiation pour nos pechez, il s'eſt aſſis à la droite de la Majeſté, aux lieux três<g ref="char:EOLhyphen"/>hauts, où il ſoûtient toutes choſes par ſa parole puiſſante,
+<note n="¶" place="bottom">
+                     <hi>Heb.</hi> 1.</note> Dieu ayant aſſujet<g ref="char:EOLhyphen"/>ti toutes choſes ſous les pieds d'iceluy, &amp; l'ayant donné ſur toutes choſes pour être chef à ſon Egliſe.</hi> Encore une fois, ô mon ame ‖ <hi>Beni donc l'Eternel &amp; n'oublie pas un de ſes bienfais; que tout ce qui eſt au dedans de moy beniſſe le nom de ſa Sainteté.</hi>
+            </p>
+            <p>Tels ſont, ô Fideles, les avanta<g ref="char:EOLhyphen"/>ges qui découlent du Jubilé Chrêtien
+<pb n="25" facs="tcp:184761:17"/>comme de leur ſource. A quel prix pouvons nous jouïr de tous ces avan<g ref="char:EOLhyphen"/>ges? Le Prophete Eſaïe nous a dê<g ref="char:EOLhyphen"/>ja dit, que c'étoit une grace qui nous étoit accordée ſans argent; Le Saint Eſprit le repete dans l'Apoca<g ref="char:EOLhyphen"/>lypſe,
+<note n="†" place="bottom">
+                  <hi>Apoc.</hi> 21.</note> 
+               <hi>A celuy qui aura ſoif, je luy donneray de l'eau de vie, ſans qu'il luy en coute rien.</hi> Ce ſont là des Metaphores, mais Saint Paul le dit en termes formels, &amp; ſans figures: <note n="*" place="bottom">
+                  <hi>Col.</hi> 2.</note> 
+               <hi>Dieu vous a gratuitement pardonnez toutes vos offenſes.</hi> Le Jubilé Chrê<g ref="char:EOLhyphen"/>tien eſt donc luy même une grace, une faveur, un bien fait.</p>
+            <p>Mais quoy? Par ce Jubilé la coul<g ref="char:EOLhyphen"/>pe &amp; la peine du peché ſont elles éga<g ref="char:EOLhyphen"/>lement remiſes? La peine éternelle du peché n'eſt-elle pas du moins chan<g ref="char:EOLhyphen"/>gée dans une peine temporelle; &amp; n'eſt-ce pas du Vatican qu'il faut at<g ref="char:EOLhyphen"/>tendre le relâchement de cette der<g ref="char:EOLhyphen"/>niere peine? Non, Mes Freres, le Jubilé Chrêtien nous acquite de tout. Certes nous ſerions bien redevables
+<pb n="26" facs="tcp:184761:18"/>à Jeſus Chriſt, s'il ne nous avoit retirez de l'Enfer, que pour nous precipiter enſuite dans d'autres lieux ſouterrains, pour y être devorez par des flames cuiſantes, auſſi long-tems que l'Evêque de Rome jugeroit à propos de nous laiſſer dans les ſou<g ref="char:EOLhyphen"/>frances? N'eſt-il pas étonnant que dans un Siecle auſſi éclairé que le nô<g ref="char:EOLhyphen"/>tre, il ſe trouve des gens, qui ayant le ſens commun, perſeverent juſques à la mort, dans une opinion auſſi fole &amp; auſſi monſtrueuſe?</p>
+            <p>Quoy qu'il en ſoit, c'eſt du Cal<g ref="char:EOLhyphen"/>vaire &amp; non pas du Vatican, que nous devons attendre une remiſſion entiere &amp; de la coulpe &amp; de la pei<g ref="char:EOLhyphen"/>ne: C'eſt le Jubilé Chrêtien, &amp; non le Jubilé Romain, qui nous commu<g ref="char:EOLhyphen"/>nique ce bienfait. Non ſeulement il eſt dit, que Jeſus Chriſt a porté nos pechez, mais il eſt dit auſſi, <note n="*" place="bottom">
+                  <hi>Eſaie</hi> 53.</note> 
+               <hi>qu'il a porté nos langueurs, chargé nos douleurs &amp; nos maladies.</hi> Non ſeulement il eſt dit, que par le ſang de Chriſt nous avons remiſſion de nos
+<pb n="27" facs="tcp:184761:18"/>pechez, mais il eſt dit auſſi, <note n="†" place="bottom">
+                  <hi>Ibid.</hi>
+               </note> 
+               <hi>que l'amende qui nous apporte la paix eſt ſur luy, &amp; que par ſa meurtriſſure nous avons gueriſon.</hi> Eh! quelle paix bon Dieu, quelle gueriſon, ſi par ſa mort, il ne nous avoit retirez de l'Enfer, que pour nous tourmen<g ref="char:EOLhyphen"/>ter dans ces lieux de torture que Ro<g ref="char:EOLhyphen"/>me appelle le Purgatoire? Saint Paul ne nous a t'il pas dit, <hi>qu'il n'y a nulle condamnation pour ceux qui ſont en Chriſt?</hi> Le Saint Eſprit ne canoni<g ref="char:EOLhyphen"/>ſe-t-il pas dans l'Apocalypſe tous ceux qui meurent en la foy de Jeſus?
+<note n="¶" place="bottom">
+                  <hi>Apoc.</hi> 14</note> 
+               <hi>Bien heureux ſont ceux qui meurent au Sei<g ref="char:EOLhyphen"/>gneur, ouy pour certain a dit l'Eſprit, car dès maintenant ils ſe repoſent de leurs travaux &amp; leurs oeuvres les ſuivent.</hi> Romains, meditez ces paroles, elles r'enferment vôtre condamnation, &amp; ſans y penſer vous la chantez vous mêmes aux Meſſes pour les Morts.</p>
+            <p>Joignons aux Oracles de l'Ecritu<g ref="char:EOLhyphen"/>re, les demonſtrations de la raiſon. Un Prince ne ſeroit-il pas eſtimé mo<g ref="char:EOLhyphen"/>queur
+<pb n="28" facs="tcp:184761:19"/>&amp; crüel, s'il envoyoit un cri<g ref="char:EOLhyphen"/>minel à la roüe &amp; au feu, pour des crimes qu'il luy auroit pardonnez, &amp; dont il luy auroit donné des Lettres d'abolition? Juſte Ciel! qu'elle affreuſe idée ne devrions nous donc pas avoir du Dieu que nous adorons, ſi après nous avoir pardonné nos pechez par Jeſus Chriſt, il nous con<g ref="char:EOLhyphen"/>dannoit encore à des tourmens hor<g ref="char:EOLhyphen"/>ribles? De quel uſage nous ſeroient ſes Lettres de graces, ſignées du ſang de ſon Fils Unique, &amp; ratifiées par ſa mort? Quand nous diſons à Dieu, <hi>pardonne nous nos offenſes, com<g ref="char:EOLhyphen"/>me nous pardonnons à ceux qui nous ont offenſez,</hi> ne nous obligeons-nous qu'à pardonner la coulpe; &amp; nous eſt il permis après cela de faire porter à celuy qui nous a offenſés, la peine de l'offenſe qu'il nous a faites? Eſt<g ref="char:EOLhyphen"/>ce donc ainſi que vous pardonnez à vos ennemis, ô Romains? Eſt-ce donc ainſi que vôtre bouche trom<g ref="char:EOLhyphen"/>peuſe leur accorde des Lettres de graces, tandis que vôtre coeur leur prepare les plus affreux ſupplices?
+<pb n="29" facs="tcp:184761:19"/>Inſenſez, <note n="†" place="bottom">
+                  <hi>Rom.</hi> 1.</note> 
+               <hi>Vous changez la gloire de Dieu incorruptible en la reſſemblance &amp; en l'image de l'homme corruptible.</hi> Pour canoniſer vos vices, vous don<g ref="char:EOLhyphen"/>nez à vôtre Dieu, vos plus infames paſſions. Nous vous demandons comment il eſt poſſible que vôtre coeur ſoit calme &amp; vôtre conſcience tranquille, lors que vous dites à Dieu,
+<hi>pardonne nous nos offenſes, comme nous pardonnons à ceux qui nous ont offenſez?</hi> Ne voyez vous pas, vous diſons nous, que vous pronon<g ref="char:EOLhyphen"/>cez vôtre condamnation? Vous croyez que nôtre ſeparation d'avec vous, eſt une offenſe que nous vous avons faite; cependant, au lieu de nous pardonner cette offenſe en bons Chrêtiens, vous vous engraiſ<g ref="char:EOLhyphen"/>ſez de nos dépoüilles, vous nous en<g ref="char:EOLhyphen"/>levez nos Enfans, vous nous faites pourrir dans de ſombres cachots, vous nous chargez de chaînes au rang des Forçats ſur des Galeres, vous nous condamnez à la roüe, ou au feu, <hi>&amp;c.</hi> Comment donc nous
+<pb n="30" facs="tcp:184761:20"/>pardonnez vous une offenſe, qui d'ailleurs ne peut être fatale qu'a nous mêmes, ſi nous avons le mal<g ref="char:EOLhyphen"/>heur d'être dans l'égarement? Je vous entens. Vous nous pardonnez la coulpe de nôtre Hereſie, mais vous vous reſervez le droit de nous en faire ſoufrir la peine. Mais quoy? Dieu ne veut-il pas que les Loix que ſa miſericorde obſerve inviolable<g ref="char:EOLhyphen"/>ment dans le pardon des offences, ſoient les reigles que vous devez exactement ſuivre? Ces Loix de la miſericorde divine, ne ſe raportent<g ref="char:EOLhyphen"/>elles pas toutes à celles-cy, ſçavoir, que Dieu en pardonnant les pechez, <hi>les
+<note n="*" place="bottom">
+                     <hi>Eſaie</hi> 44.28.</note> efface comme une nüée,</hi> qu'il <note n="§" place="bottom">
+                  <hi>Michée</hi> 7.</note> 
+               <hi>les jette au profond de la mer,</hi> &amp; qu'il <note n="†" place="bottom">
+                  <hi>Eſaie</hi> 43.</note> 
+               <hi>n'en aura plus de ſouvenance?</hi> N'eſt<g ref="char:EOLhyphen"/>ce pas ainſi que Dieu pardonne? Ses Indulgences ne ſont-elles pas toûjours ſans reſtriction maligne, &amp; ſans re<g ref="char:EOLhyphen"/>ſervation mentale? Encore une fois, dites nous qu'elle eſt vôtre in<g ref="char:EOLhyphen"/>tention, lors que vous dites à Dieu,
+<pb n="31" facs="tcp:184761:20"/>
+               <hi>pardonne nous nos offenſes,</hi> &amp;c? Je l'ay dêja dit, vous donnez à Dieu vos paſſions pour juſtifier vôtre ty<g ref="char:EOLhyphen"/>ranie à nôtre égard; vous ſuppoſez que Dieu a un coeur fourbe &amp; crüel comme le vôtre, &amp; qu'il ne pardon<g ref="char:EOLhyphen"/>ne qu'a demi, lors qu'il ſemble tout pardonner. Cela étant ainſi, voicy quel eſt le ſens de vôtre priere, ou il faut que vous renonciez à vos prin<g ref="char:EOLhyphen"/>cipes. (O Cieux écoutez, toy terre prête l'oreille, &amp; vous peuples fre<g ref="char:EOLhyphen"/>miſſez d'horreur.) Seigneur, il eſt dit que ton fils, <note n="†" place="bottom">1
+<hi>Pierre</hi> 1.</note> 
+               <hi>a payé toutes nos dettes, non par choſe corruptible com<g ref="char:EOLhyphen"/>me par argent ou par or, mais par ſon ſang precieux.</hi> Il eſt dit,
+<note n="§" place="bottom">
+                  <hi>Col.</hi> 2.</note> 
+               <hi>que nos obligations ont été effacées &amp; atta<g ref="char:EOLhyphen"/>chées à ſa Croix.</hi> Mais tous ces paſ<g ref="char:EOLhyphen"/>ſages ſont de pures illuſions. Tou<g ref="char:EOLhyphen"/>tes ces aſſurances ſi poſitives &amp; ſi ſolemnelles que tu nous donnes du pardon de tous nos pechez, &amp; du payement de toutes nos dettes, ne ſont que des promeſſes vaines, des engagemens ſans effet, dont nous
+<pb n="32" facs="tcp:184761:21"/>ſommes les dupes. Ton coeur &amp; ta bouche ne s'accordent pas. Ta bou<g ref="char:EOLhyphen"/>che dit, <hi>il n'y a nulle condamnation pour ceux qui ſont en Chriſt. Bien<g ref="char:EOLhyphen"/>heureux ſont ceux qui meurent au Sei<g ref="char:EOLhyphen"/>gneur, dès maintenant ils ſe repoſent de leurs travaux.</hi> Mais ton coeur dit, il y a encore pour ceux qui ſont en Chriſt, une condamnation à la tor<g ref="char:EOLhyphen"/>ture, la mort n'eſt point le terme de leurs maux, mais plûtôt elle eſt l'avancouriere de Satan qui ſe ſaiſit d'eux. (Pluſieurs Docteurs Romains eroyent que les Diables ſont les Bour<g ref="char:EOLhyphen"/>reaux des ames du Purgatoire.) Elle eſt la porte par laquelle ils entrent dans un abîme de feu; elle eſt la main qui les y precipice. C'eſt ainſi, ô Dieu, qu'en croyant le Purgatoire, nous croyons que tu pardonnes; &amp; c'eſt auſſi de cette ſurte que nous vou<g ref="char:EOLhyphen"/>lons pardonner. Nous pardonnons de bon coeur aux Heretiques la coul<g ref="char:EOLhyphen"/>pe de leur Hereſie, mais à ton exem<g ref="char:EOLhyphen"/>ple nous nous reſervons le privi<g ref="char:EOLhyphen"/>lege de leur en faire porter la peine. C'eſt pour cela que nous avons érigé
+<pb n="33" facs="tcp:184761:21"/>l'auguſte tribunal de la ſainte Inqui<g ref="char:EOLhyphen"/>ſition, ſes cachots, ſes chaines, ſes flammes, ſont le plus doux Purga<g ref="char:EOLhyphen"/>toire, auquel nous puiſſions les con<g ref="char:EOLhyphen"/>damner. C'eſt pour cela que nôtre coeur medite leur perte, dans le mo<g ref="char:EOLhyphen"/>ment même que nôtre main leur ſi<g ref="char:EOLhyphen"/>gne les Edits les plus pacifiques. C'eſt pour cela que nous croyons vains tous les ſermens ſi ſacrez, par leſquels nous nous ſommes engagez aux pieds de nos autels, de donner à leur conſ<g ref="char:EOLhyphen"/>cience, le repos &amp; la liberté; C'eſt pour cela que nous nous croyons en droit de les perdre, lors que nous ſommes les plus forts, quelques in<g ref="char:EOLhyphen"/>violables que paroiſſent ces Traités authentiques que nous leur avons ju<g ref="char:EOLhyphen"/>rez. Comme nous croyons que tu nous traiteras ainſi nous mêmes après nôtre mort, permets nous de traiter ainſi pendant nôtre vie tous nos ennemis, <hi>pardonne nous nos offenſes, comme nous pardonnons à ceux qui nous ont offenſés.</hi>
+            </p>
+            <p>Mes Freres, ne ſoyez plus ſurpris de voir les ennemis de vôtre Foy,
+<pb n="34" facs="tcp:184761:22"/>vous traiter d'une maniere ſi cruelle, &amp; ſi ſauvage. Ne voyez vous pas qu'ils imitent le Dieu qu'ils font &amp; qu'ils adorent? Pour ce qui eſt de nous, nous n'avons point ainſi apris de Chriſt. Il nous a été dit,
+<note n="†" place="bottom">
+                  <hi>Col.</hi> 3.</note> 
+               <hi>ſi l'un a querelle contre l'autre, comme Jeſus Chriſt vous a pardonnez, vous auſſi faites le ſemblable.</hi> Or nous croyons que Jeſus Chriſt a été ſin<g ref="char:EOLhyphen"/>cere dans le pardon qu'il nous a ac<g ref="char:EOLhyphen"/>cordé. Nous croyons que ſa bouche a été la fidele interprete de ſon coeur, quand il nous a dit, <note n="*" place="bottom">
+                  <hi>Jean</hi> 5.</note> 
+               <hi>En verité je vous dis, que celuy qui oit ma parole, &amp; croit à celuy qui m'a envoyé, a la vie éternelle, &amp; ne viendra point en condamnation, mais eſt paſſé de la mort à la vie.</hi> De là nous concluons, que le Jubilé Chrêtien, nous affranchit, &amp; de toute la coulpe, &amp; de toute la peine du peché. De là nous chan<g ref="char:EOLhyphen"/>tons le triomphe avec Saint Paul, <note n="§" place="bottom">
+                  <hi>Rom.</hi> 8.</note> 
+               <hi>qui intentera accuſation contre les Elus de Dieu? Dieu eſt eeluy qui juſti<g ref="char:EOLhyphen"/>fie.
+<pb n="35" facs="tcp:184761:22"/>Qui ſera celuy qui condamnera? Chriſt eſt celuy qui eſt mort.</hi> De là nous concluons auſſi, que nous de<g ref="char:EOLhyphen"/>vons pardonner à nos ennemis ſans reſtriction &amp; ſans reſerve, &amp; que nous prononçons nôtre condamna<g ref="char:EOLhyphen"/>tion, ſinous avons d'autre intention, lors que nous diſons à Dieu, <hi>pardon<g ref="char:EOLhyphen"/>ne nous nos offenſes, comme nous par<g ref="char:EOLhyphen"/>donnons à ceux qui nous ont offenſez.</hi>
+            </p>
+            <p n="3">3. Juſques icy, vous avez vû, Mes Freres, ce que c'eſt que le Jubi<g ref="char:EOLhyphen"/>lé Chrêtien, &amp; quels ſont les avan<g ref="char:EOLhyphen"/>tages qui en reviennent; voyons maintenant, quel eſt le Peuple, quelle eſt la Nation qui peut avoir part à ces avantages; en quel temps &amp; en quel lieu ce Jubilé doit être Publié.</p>
+            <p>Il n'y a pas long-temps que nous vous fimes remarquer, qu'un des principaux motifs qui avoit mû Dieu à nous envoyer ſon Fils, étoit le deſ<g ref="char:EOLhyphen"/>ſein qu'il avoit eu de nous adopter, &amp; de nous donner place au rang de ſes enfans. Pour vous faire compren<g ref="char:EOLhyphen"/>dre l'excellence de ce bienfait, nous vous fimes le fidelle tableau de nôtre
+<pb n="36" facs="tcp:184761:23"/>ancienne condition, nous étant con<g ref="char:EOLhyphen"/>ſiderez nous mêmes dans la perſon<g ref="char:EOLhyphen"/>ne de nos peres qui étoient Payens. Retracez dans vôtre memoire, une partie des choſes que nous vous di<g ref="char:EOLhyphen"/>mes, cela eſt neceſſaire pour bien concevoir quel eſt le Peuple qui a droit aux Indulgences du Jubilé Chrêtien. Le ſens de tout ce que nous vous dimes, étoit, qu'avant l'Incar<g ref="char:EOLhyphen"/>nation du Fils de Dieu, l'Eternel ne ſe faiſoit pas connoître à tous les peu<g ref="char:EOLhyphen"/>ples de la terre; que la portion de l'Eternel étoit le peuple d'lſraël: <note n="†" place="bottom">
+                  <hi>Deut.</hi> 33.</note> 
+               <hi>que Dieu ne declaroit ſes paroles qu'à Jacob, &amp; ſes Ordonnances qu'à Iſraël.</hi> Qu'autrefois, <note n="*" place="bottom">
+                  <hi>Pſ.</hi> 147.</note> 
+               <hi>Dieu laiſſoit cheminer les Nations en leur voyes, <note n="¶" place="bottom">
+                     <hi>Act.</hi> 14.</note> &amp; diſ<g ref="char:EOLhyphen"/>ſimuloit les temps de l'ignorance.</hi> Qu'alors, <note n="‖" place="bottom">
+                  <hi>Act.</hi> 17.</note> 
+               <hi>les Gentils n'avoient rien de commun avec la Republique d'Iſraël, <note n="§" place="bottom">
+                     <hi>Eph.</hi> 2.</note> Etant Etrangers des Alliances de la Promeſſe, n'ayant point d'eſperance, étant ſans Dieu au Monde.</hi>
+            </p>
+            <p>Nous ajouterons icy, que comme
+<pb n="37" facs="tcp:184761:23"/>Dieu avoit choiſi Iſraël pour ſon Peu<g ref="char:EOLhyphen"/>ple, auſſi avoit il choiſi Sion pour y établir ſon ſervice. <note n="†" place="bottom">
+                  <hi>Pſ.</hi>
+132</note> 
+               <hi>L'Eternel a choiſi Sion &amp; l'a eüe à gré pour ſon ſiege, elle eſt, dit-il, mon repos à per<g ref="char:EOLhyphen"/>petuité.</hi> Là étoit le ſuperbe temple de Salomon, le ſeul au monde qui fût canſacré au vray Dieu. Là étoit l'Arche de l'Alliance, les Tables de la Loy, l'unique Autel ſur lequel Dieu vouloit qu'on luy immolât des Victimes. Là on venoit de toutes parts pour adorer Dieu; chaque mâle des enfans d'Iſraël <note n="*" place="bottom">
+                  <hi>Deut.</hi> 6.</note> s'y devoit pre<g ref="char:EOLhyphen"/>ſenter trois fois l'année avec quelque oblation.</p>
+            <p>Mais enfin, Dieu ayant envoyé ſon Fils (c'eſt ce que nous vous fi<g ref="char:EOLhyphen"/>mes auſſi remarquer) les ombres de la Loy s'évanouîrent, <note n="‖" place="bottom">
+                  <hi>Eph.</hi> 2.</note> 
+               <hi>La cloture de la paroi entremoyenne fut rompüe.
+<note n="¶" place="bottom">
+                     <hi>Rom.</hi> 11.</note> Là chute des Juifs fut la richeſſe du mon<g ref="char:EOLhyphen"/>de, &amp; leur diminution la richeſſe des Gentils.</hi> Dieu appella
+<note n="§" place="bottom">
+                  <hi>Rom.</hi> 9.</note> 
+               <hi>ſon Peuple celuy qui n'étoit point ſon Peuple, &amp; ſa
+<pb n="38" facs="tcp:184761:24"/>bien aimée, celle qui n'étoit point ſa bien aimée.</hi> Il n'y eut <note n="†" place="bottom">
+                  <hi>Rom.</hi> 10.</note> 
+               <hi>plus de difference du Juif &amp; du Grec.</hi>
+            </p>
+            <p>Qui ſont donc ceux qui peuvent pretendre aux pardons du Jubilé Chrêtien? Miſericorde de mon Dieu, comme tes Indulgences ſont ſans nombre, auſſi ſont elles aujour<g ref="char:EOLhyphen"/>d'huy ſans bornes. <note n="*" place="bottom">
+                  <hi>Eph.</hi> 2.</note> 
+               <hi>Chriſt eſt nôtre paix, qui des deux en a fait un. <note n="‖" place="bottom">
+                     <hi>Rom.</hi>
+9.</note> Il eſt arrivé qu'au lieu où il a été dit, vous n'étes point mon Peuple, là nous ſommes appellez enfans de Dieu.</hi> Cette Statue prodigieuſe qui menaçoit au<g ref="char:EOLhyphen"/>trefois le Ciel &amp; la Terre, a été re<g ref="char:EOLhyphen"/>duite en pouſſiere; un petit caillou détaché ſans main d'une montagne, eſt venu fondre ſur ce terrible Coloſſe, &amp; l'a entierement briſé, &amp; ſur ce de<g ref="char:EOLhyphen"/>bris le Royaume de Dieu a été élevé. Aujourd'huy eſt accomplie cette Pro<g ref="char:EOLhyphen"/>phetie du Sauveur, <note n="§" place="bottom">
+                  <hi>Jean</hi> 10.</note> 
+               <hi>J'ay encore d'autres Brebis qui ne ſont point de cet<g ref="char:EOLhyphen"/>te Bergerie, il me les faut amener, elles écouteront ma voix, &amp; il y aura
+<pb n="39" facs="tcp:184761:24"/>un ſeul troupeau &amp; un ſeul Paſteur. <note n="†" place="bottom">
+                     <hi>Rom.</hi> 10.</note> Il y a maintenant un ſeul Seigneur de tous, qui eſt riche envers tous ceux qui l'invoquent.</hi> Chriſt eſt venu pour tous. Le Ciel, la grace, le ſalut, Dieu luy même eſt offert à tous. Il n'y a point de peuple, qui en vertu du ſang de Chriſt, n'ait aquis un droit à l'heritage celeſte. Le Jubilé Chrêtien eſt donc preſenté à toutes les Nations de la terre.
+<note n="*" place="bottom">
+                  <hi>Act.</hi> 10.</note> 
+               <hi>En toute nation, celuy qui craint Dieu luy eſt agreable. <note n="§" place="bottom">
+                     <hi>Pſ.</hi> 100.</note> Vous tous habitans de la ter<g ref="char:EOLhyphen"/>re jettez donc cris d'éjouïſſance, chan<g ref="char:EOLhyphen"/>tez à l'Eternel nouveau Cantique, pſal<g ref="char:EOLhyphen"/>modiez à ſon nom, car il a fait choſes merveilleuſes. Tous les bouts de la terre ont vû le ſalut de nôtre Dieu.</hi> Vous étes maintenant, ô Gentils, <note n="‖" place="bottom">
+                  <hi>Pierre</hi> 1. <hi>Eph.</hi> 2.</note> 
+               <hi>La generation élüe, la Sacrificature Royale, la Nation Sainte, le Peuple acquis, afin que vous annonciez les vertus de celuy qui vous a appellez des tenenebres à ſa merveilleuſe lumiere.</hi>
+            </p>
+            <p n="4">4. S'il n'y a plus de difference de
+<pb n="40" facs="tcp:184761:25"/>perſonnes, auſſi n'y en a t'il plus, ni de temps, ni de lieu. C'eſt une impieté &amp; un blaſpheme, de dire avec Rome, que Dieu eſt plus mi<g ref="char:EOLhyphen"/>ſericordieux en une année, qu'il ne l'eſt dans une autre. Depuis le jour auquel Jeſus Chriſt mourut, juſques au jour auquel il viendra juger les vi<g ref="char:EOLhyphen"/>vans &amp; les morts, il ne peut s'écou<g ref="char:EOLhyphen"/>ler une ſeule minute, qui ne ſoit un temps de grace &amp; de ſalut.
+<note n="†" place="bottom">
+                  <hi>Heb.</hi> 13.</note> 
+               <hi>Jeſus eſt le même hier, aujourd'huy, &amp; le ſera éternellement.</hi> 
+               <note n="*" place="bottom">
+                  <hi>Matth.</hi>
+20. <hi>Matth.</hi> 7. <hi>Luc</hi> 11.</note> Il envoye des ouvriers à ſa vigne à toutes les heu<g ref="char:EOLhyphen"/>res du jour. En tout temps, cette parole eſt certaine. ‖ <hi>Demandez &amp; vous recevrez, cherchez &amp; vous trou<g ref="char:EOLhyphen"/>verez, heurtez &amp; il vous ſera ou<g ref="char:EOLhyphen"/>vert.</hi>
+            </p>
+            <p>O vous qui pretendez que l'on ne doit ouvrir le threſor des richeſſes de Dieu, qu'en certains jours, &amp; en certaines années, écoutez Saint Paul, voyez à qui en veut cét Apôtre: Re<g ref="char:EOLhyphen"/>connoiſſez vous vous mêmes, ceſſez
+<pb n="41" facs="tcp:184761:25"/>de reſiſter à la verité, ne ſoyez plus
+<note n="†" place="bottom">
+                  <hi>Tim.</hi> 3.</note> 
+               <hi>dé<g ref="char:EOLhyphen"/>pourvûs d'entendement, ni reprouvez quant à la foy. Vous obſervez,</hi> dit-il, <note n="*" place="bottom">
+                  <hi>Gal.</hi> 4.</note> 
+               <hi>les jours &amp; les mois, les temps &amp; les an<g ref="char:EOLhyphen"/>nées, je crains de vous, que d'avan<g ref="char:EOLhyphen"/>ture je n'aye travaillé en vain envers vous.</hi>
+            </p>
+            <p>Nôtre Jubilé, eſt donc un Jubilé perpetuel. Chaque année de nôtre vie eſt l'an de la bien-veillance de nôtre Dieu. Le Jubilé Romain fi<g ref="char:EOLhyphen"/>nira, les Idolâtres ſeront confus, mais le Jubilé Chrêtien durera éter<g ref="char:EOLhyphen"/>nellement. Juſques à la conſomma<g ref="char:EOLhyphen"/>tion des Siecles, les Predicateurs de l'Evangile pourront annoncer à leurs peuples, cette agreable nouvelle, <hi>Cette Année eſt le Jubilé.</hi>
+            </p>
+            <p>Il en eſt aujourd'huy du lieu comme du tems. Enquelque lieu que j'éleve mes mains au deſſus des choſes du monde, j'y trouve le Dieu que je cher<g ref="char:EOLhyphen"/>che. Par tout mes voeux, mes prieres, mes larmes luy ſont agréables par Jeſus Chriſt. Son Jubilé n'eſt at<g ref="char:EOLhyphen"/>attaché, ni aux murs de Jeruſalem,
+<pb n="42" facs="tcp:184761:26"/>ni aux temples de Rome. <note n="†" place="bottom">
+                  <hi>Malach.</hi>
+1.</note> 
+               <hi>Depuis le Soleil levant juſques au Soleil couchant, ſon nom eſt grand entre les Nations. On doit luy offrir en tout lieu parfum &amp; oblation pure. Femme,</hi> diſoit Je<g ref="char:EOLhyphen"/>ſus Chriſt à la Samaritaine, <hi>l'heure vient, &amp; elle eſt maintenant, que vous n'adorerez, ni en cette Monta<g ref="char:EOLhyphen"/>gne, ni en Jeruſalem; <note n="§" place="bottom">
+                     <hi>Jean.</hi>
+4.</note> Mais les vrais adorateurs adoreront en eſprit &amp; en verité, car le Pere en demande de tels qui l'adorent. <note n="¶" place="bottom">
+                     <hi>Matth.</hi> 18.</note> Là où deux ou trois ſont aſſemblez en mon nom, je ſuis au milieu d'eux.</hi>
+               <note n="*" place="bottom">1 <hi>Tim.</hi> 2.</note> Que les hommes, dit Saint Paul, <hi>faſſent priere en tout lieu, levant leurs mains pures, ſans ire &amp; ſans queſtion,
+<note n="‖" place="bottom">
+                     <hi>Auguſt. Serm.</hi> 3.</note> Dieu n'a pas dit, va en Orrient &amp; y cherche la Juſtice, Navige juſques en Oceident, pour re<g ref="char:EOLhyphen"/>cevoir l'Indulgence, mais il a dit par<g ref="char:EOLhyphen"/>donne à ton ennemy, &amp; on te pardon<g ref="char:EOLhyphen"/>nera.</hi> C'étoit là la foy de Saint Au<g ref="char:EOLhyphen"/>guſtin; c'étoit auſſi celle de Saint Chriſoſtome. <hi>Pour obtenir la Re<g ref="char:EOLhyphen"/>miſſion
+<pb n="43" facs="tcp:184761:26"/>des pechez,</hi> diſoit ce Sçavant Prelat,
+<note n="†" place="bottom">
+                  <hi>Hom.</hi> 1. <hi>ad Philem.</hi>
+               </note> 
+               <hi>il n'eſt pas beſoin de travaux, ni de depenſe d'argent, ou de quelqu'au<g ref="char:EOLhyphen"/>tre choſe, mais ſeulement d'une ſainte reſolution. Pourquoy entreprendre des Pelerinages? Pourquoy aller au de<g ref="char:EOLhyphen"/>là des Montagnes ou des Païs Etran<g ref="char:EOLhyphen"/>gers? Cela n'eſt pas neceſſaire.</hi> Il n'y a pas long temps que Bernard de Clervaux diſoit, <note n="*" place="bottom">
+                  <hi>Serm.</hi> 1. <hi>de Advent.</hi>
+               </note> 
+               <hi>il ne faut pas, ô homme, que tu naviges au delà des Mers, ou que tu paſſes les Alpes, ou que tu penetres juſques aux nüées; en<g ref="char:EOLhyphen"/>tre ſeulement au dedans de toy même: Hate toy, vient au devant de ton Dieu, ſa parole eſt près de toy, en ta bouche, &amp; en ton coeur.</hi>
+            </p>
+            <p>Il nous reſte encore à vous parler des conditions requiſes &amp; abſolument neceſſaires pour gagner les Indul<g ref="char:EOLhyphen"/>gences du Jubilé Chrêtien. <hi>Cette Année eſt le Jubilé,</hi> c'eſt là le Princi<g ref="char:EOLhyphen"/>pe que nous avons examiné. <hi>Elle vous ſera Sainte,</hi> c'eſt la conſequen<g ref="char:EOLhyphen"/>ce qui reſulte naturellement de' ce
+<pb n="44" facs="tcp:184761:27"/>Principe. Les Reflexions que nous allons faire ſur cette conſequence, nous fourniront les moyens de ga<g ref="char:EOLhyphen"/>gner nôtre Saint Jubilé, &amp; nous tiendront lieu d'application.</p>
+            <div type="conclusion">
+               <head>CONCLUSION.</head>
+               <p>QUand Dieu diſoit aux Juifs, <hi>cette Année eſt le Jubilé, elle vous ſera Sainte:</hi> Il vouloit, non ſeulement leur faire entendre, que cette année ſeroit plus ſainte que les autres, parce qu'elle ſeroit plus fa<g ref="char:EOLhyphen"/>voriſée des graces du Ciel: Mais auſſi il vouloit leur inſinuer, que cette année étant l'an de la profuſion de ſes graces &amp; de ſes faveurs, ils de<g ref="char:EOLhyphen"/>voient par un motif de reconnoiſſan<g ref="char:EOLhyphen"/>ce, travailler à leur propre ſantifica<g ref="char:EOLhyphen"/>tion, avec un nouveau zele, &amp; une ferveur extraordinaire. Le ſens de nótre texte, par raport aux Juifs, étoit done celuy cy: Cette année eſt un temps heureux, auquel l'E<g ref="char:EOLhyphen"/>ternel vous donne la r<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſée du Ciel, &amp; la graiſſe de la terre; c'eſt un temps
+<pb n="45" facs="tcp:184761:27"/>remarquable pour les bien-faits dont le Seigneur vous comble; Soyez done Saints devant ſes yeux, &amp; ne changez pas ſes graces en diſolution. Lors que l'Eternel briſe les chaines des captiſs, &amp; donne la liberté aux pri<g ref="char:EOLhyphen"/>ſonniers; retournez à luy de tout vôtre coeur, ſocou<g ref="char:cmbAbbrStroke">̄</g>ez le joug de Sa<g ref="char:EOLhyphen"/>tan, affranchiſſez vous de la dure ſer<g ref="char:EOLhyphen"/>vitude du Prince des tenebres. Lors que vôtre Dieu rend à chacun ſon Heritage; ceſſez d'irriter le Ciel par vôtre endurciſſement, &amp; de ſa<g ref="char:EOLhyphen"/>lir la terre par vos abominations. En un mot, conſacrez au ſervice de vôtre Dieu, une année qu'il deſtine à vous rendre tous heureux. <hi>Cette Année eſt le Jubilé, elle vous ſera Sainte.</hi>
+               </p>
+               <p>Mes Freres, ſi toutes ces conſe<g ref="char:EOLhyphen"/>quences étoient juſtes par raport aux Juifs, combien plus le ſont elles par raport à nous? On ne pouvoit tenir ce langage aux Juifs, que de 50 en 50 ans: Mais chaque année, chaque jour, chaque moment, on a droit de nous avertir de ces grands devoirs,
+<pb n="46" facs="tcp:184761:28"/>&amp; de nous dire, <hi>Cette Année eſt le Jubilé, elle vous ſera Sainte.</hi> Tou<g ref="char:EOLhyphen"/>tes les années de l'Ere Chrêtienne, peuvent être appellées ſaintes, par<g ref="char:EOLhyphen"/>ce qu'il n'y en a aucune qui ne pre<g ref="char:EOLhyphen"/>ſente à l'homme un Sauveur &amp; une liberté éternelle. C'eſt là par raport à Dieu, le ſens de nôtre texte; mais par raport à nous, voicy ce qu'il ſi<g ref="char:EOLhyphen"/>gnifie.</p>
+               <p>Cette année eſt le temps de vôtre redemption, le Ciel vous eſt ouvert, Satan eſt humilié, la mort eſt vain<g ref="char:EOLhyphen"/>cüe, la miſericorde de Dieu vous preſente un azile; ſa colere eſt cal<g ref="char:EOLhyphen"/>mée, ſa juſtice eſt ſatisfaite: que cette a née vous ſoit donc ſainte; <note n="†" place="bottom">
+                     <hi>Eſai<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> 
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note>
+                  <hi>Otez de devant les yeux</hi> de Dieu, <hi>la malice de vos actions, ceſſez de mal faire, apprenez à bien faire, recher<g ref="char:EOLhyphen"/>chez droiture, radreſſez celuy qui eſt foulé, faites droit à l'orphelin, deba<g ref="char:EOLhyphen"/>tez la cauſe de la veuve. <note n="‖" place="bottom">
+                        <hi>Rom.</hi> 13.</note> Rendez à tous ce qui leur eſt dû.</hi> Aimez vôtre Dieu, <note n="¶" place="bottom">
+                     <hi>Matth.</hi> 22.</note> 
+                  <hi>de tout vôtre coeur, de toute
+<pb n="47" facs="tcp:184761:28"/>vôtre ame, de toute vôtre penſée, &amp; vôtre prochain comme vous mêmes. Cette Année eſt le Jubilé, elle vous ſera Sainte.</hi>
+               </p>
+               <p>Mais pour donner quelques bornes à nos Reflexions; nous reduirons à deux, les moyens de ſantifier, non ſeulement cette année, mais auſſi toutes les ſuivantes, qui ſeront égallement des années de Jubilé pour nous, pendant leſquelles nous pourrons gagner les Indulgences Plenieres.</p>
+               <p>Ces deux moyens ſont la Repen<g ref="char:EOLhyphen"/>tance de nos pechez, &amp; la foy en Jeſus Chriſt. Ce ſont là les deux ailes qui doivent nous élever juſques à Dieu: C'eſt là une double chaîne par laquelle il nous attire à la Com<g ref="char:EOLhyphen"/>munion de ſes graces. Car ſans nous perdre icy dans les Labyrintes de la Scolaſtique, ne comprenons nous pas que nôtre reconciliation avec Dieu ſe fait, lors que reconnoiſſans &amp; confeſſans nos pechez dans l'amer<g ref="char:EOLhyphen"/>tume de nôtre coeur, nous avons re<g ref="char:EOLhyphen"/>cours à la miſericorde de Dieu, &amp;
+<pb n="48" facs="tcp:184761:29"/>embraſſons les merites de nôtre Sauveur, avec un coeur fidele &amp; re<g ref="char:EOLhyphen"/>pentant.</p>
+               <p>De la Repentance, il eſt dit, <note n="¶" place="bottom">
+                     <hi>Prov.</hi> 13.</note>
+                  <hi>Celuy qui cache ſes tranſgreſſions, ne proſperera point; mais celuy qui les confeſſe &amp; les delaiſſe, obtiendra mi<g ref="char:EOLhyphen"/>ſericorde.</hi> Au 18 chapitre des Reve<g ref="char:EOLhyphen"/>lations d'Ezechiel, Dieu fait luy mê<g ref="char:EOLhyphen"/>me l'Apologie de ſa Miſericorde, &amp; même de ſa Juſtice contre les mur<g ref="char:EOLhyphen"/>mures des Libertins qui rejettent leur damnation ſur l'éternité de ſes De<g ref="char:EOLhyphen"/>crets. Là il plaide luy même ſa cau<g ref="char:EOLhyphen"/>ſe, il deffend luy même ſes Droits, &amp; proteſte, que celuy qui perit, ne doit s'en prendre qu'à ſa propre mali<g ref="char:EOLhyphen"/>ce, &amp; nullement à la volonté abſo<g ref="char:EOLhyphen"/>lüe de ſon Createur, qui luy offre ſans ceſſe ſa grace &amp; le ſalut. Là, il invite tous les pecheurs à chercher leur refuge, dans le ſein de ſa miſe<g ref="char:EOLhyphen"/>ricorde, leur jurant qu'ils ont en main le moyen de gagner le Ciel, &amp; d'éviter l'Enfer. <hi>Le fils ne portera point l'niquité du pere, ni le pere l'i<g ref="char:EOLhyphen"/>niquité
+<pb n="49" facs="tcp:184761:29"/>du fils, l'ame qui pechera ſera celle qui moura. Prendrois-je en au<g ref="char:EOLhyphen"/>cune façon plaiſir à la mort du mé<g ref="char:EOLhyphen"/>chant, &amp; non plûtôt qu'il ſe détourne de ſon mauvais train &amp; qu'il vive? Quand le méchant ſe detournera de la mechanceté qu'il aura commiſe, &amp; qu'il fera ce qui eſt juſte &amp; droit, il fera revivre ſon ame. Je jugeray chacun de vous ſelon ſes voyes, ô maiſon d'I<g ref="char:EOLhyphen"/>ſraël, détournez vous de vos forfaits &amp; l'iniquité ne vous ſera point en ruine. Jettez arriere de vous tous vos forfaits, par leſquels vous avez forfait. Faites vous un nouveau coeur, &amp; un eſprit nouveau. Pourquoy mourriez vous, ô Maiſon d'Iſraël? Je ne prend point de plaiſir à la mort de celuy qui meurt. Convertiſſez vous &amp; vivez.</hi>
+               </p>
+               <p>Nous ne pouvons rien ajouter à ces belles paroles; elles ſont égalle<g ref="char:EOLhyphen"/>ment preſſantes &amp; intelligibles. C'eſt vôtre Dieu qui parle; c'eſt ſon diſ<g ref="char:EOLhyphen"/>cours, c'eſt ſon Sermon, vous en comprenez le ſens &amp; la force. Il vous declare, que pour gagner ſes Indulgences &amp; ſes Pardons, il eſt be<g ref="char:EOLhyphen"/>in
+<pb n="50" facs="tcp:184761:30"/>d'une ſerieuſe repentance, qui produiſe en vous une vive douleur du paſſé, &amp; une ſainte reſolution pour l'avenir.</p>
+               <p>De la Foy en Jeſus Chriſt, il eſt dit, <note n="¶" place="bottom">
+                     <hi>Jean.</hi>
+11.</note> 
+                  <hi>Je ſuis la Reſurrection &amp; la vie; qui croit en moy encore qu'il ſoit mort vivra; &amp; qui croit &amp; vit en moy ne mourra point.</hi> Et ailleurs;
+<note n="§" place="bottom">
+                     <hi>Jean</hi> 3.</note> 
+                  <hi>Dieu a tellement aimé le monde, qu'il a envoyé ſon Eils unique au monde, afin que quiconque croit en luy ne periſſe point, mais ait la vie éter<g ref="char:EOLhyphen"/>nelle.</hi> Comme ſans la repentance, cette foy ne ſeroit qu'une foy de De<g ref="char:EOLhyphen"/>mon, plus capable de nous perdre, que de nous ſauver: Auſſi la repen<g ref="char:EOLhyphen"/>tance ſans cette foy, ne ſeroit qu'une repentance de Judas, c'eſt a dire, un veritable deſeſpoir. Ce ſont là les deux, belles vertus, que Jeſus Chriſt, dans ſes Sermons, recom<g ref="char:EOLhyphen"/>mende à ſes Auditeurs, comme les deux mains dont ils doivent ſe ſervir, p<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur recevoir les Bulles du Jubilé
+<pb n="51" facs="tcp:184761:30"/>qu'il leur a apporté du Ciel. <note n="§" place="bottom">
+                     <hi>Marc.</hi> 1.</note> 
+                  <hi>Le Royaume des Cieux eſt approché, amen<g ref="char:EOLhyphen"/>dez vous &amp; croyez à l' Evangile.</hi>
+               </p>
+               <p>Laiſſons donc là le Pape, &amp; allons à Jeſus Chriſt: C'eſt de celuy-cy ſeul que nous devons attendre les vrais Indulgences. Ames alterées du ſa<g ref="char:EOLhyphen"/>lut éternel, qu'iriez vous cherche: dans ces citernes creuſées qui ne con<g ref="char:EOLhyphen"/>tiennent point d'eau, ou qui n'en contiennent que de mauvaiſe? Ve<g ref="char:EOLhyphen"/>nez à la ſource de vie, de ſalut, de miſericorde; Venez y puiſer les eaux rejailliſſantes en vie éternelle. Jeſus vous les preſente ſans exiger de vous, que vous vous expoſiez au naufrage, ou que vous couriez riſque de tom<g ref="char:EOLhyphen"/>ber entre les mains des voleurs, ou des meurtriers.
+<note n="†" place="bottom">
+                     <hi>Jean</hi> 7.</note> 
+                  <hi>Qui a ſoif, qu'il vienne à moy, &amp; qu'il boive.</hi> Pe<g ref="char:EOLhyphen"/>cheurs, ſentez vos miſeres, pleure<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> &amp; lamentez, retournez à l'Eternel vôtre Dieu, il aura pitié de vous, ſes compaſſions ne ſont point deffail<g ref="char:EOLhyphen"/>lies. O vous tous qui étes travaillet
+<pb n="52" facs="tcp:184761:31"/>&amp; chargez, vous qui gemiſſez ſous le peſant fardeau de vos iniquitez, venez à Jeſus Chriſt <note n="*" place="bottom">
+                     <hi>Matth.</hi> 17.</note>
+                  <hi>&amp; il vous ſou<g ref="char:EOLhyphen"/>lagera, &amp; donnera paix &amp; repos à vos ames.</hi> Venez à luy avec repen<g ref="char:EOLhyphen"/>tance de vos pechez, &amp; la foy en ſon nom, &amp; vous en recevrez des Indul<g ref="char:EOLhyphen"/>gences d'une remiſſion pleniere. In<g ref="char:EOLhyphen"/>dulgences qu'il vous a reſervées dès les temps éternels, <note n="§" place="bottom">
+                     <hi>Eph.</hi> 1.</note> Dieu vous ayant élus avant la fondation du monde, pour vous adopter à ſoy par Jeſus C.</p>
+               <p>Indulgences, dont l'original eſt dans le Ciel au livre de l'Agneau, &amp; dont l'Evangile eſt la fidelle copie: Indulgences, qui-viennent du ſein du Pere Eternel, &amp; que Jeſus Chriſt a ſignées de ſon ſang, &amp; ratifiées par ſa mort. Indulgences, qui ne ſont écrites, ni en papier, ni en parche<g ref="char:EOLhyphen"/>min, mais que le Saint Eſprit a gra<g ref="char:EOLhyphen"/>vées dans le fonds de nos coeurs. In<g ref="char:EOLhyphen"/>dulgences, enfin, qui ne ſont ſeel<g ref="char:EOLhyphen"/>lées, ni en cire, ni en plomb, mais
+<pb n="53" facs="tcp:184761:31"/>ſcellées du Seau du Dieu vivant, <note n="¶" place="bottom">
+                     <hi>Eph.</hi> 1.</note> 
+                  <hi>Car nous ſommes ſcellez du S. Eſprit de la promeſſe, qui eſt l'Arrhe de nô<g ref="char:EOLhyphen"/>tre Heritage.</hi> Paralitiques, boiteux, aveugles, venez à ce Lavoir de Siloé. La foy &amp; la repentance peuvent vous y plonger à tout moment. Cette divine ſource, eſt ſalutaire en toute ſaiſon. Et vous pauvres, ne vous imaginez pas, que vôtre condition ſoit pire que celle des riches, Jeſus a rêpandu ſon ſang, &amp; pour vous, &amp; pour eux. <note n="§" place="bottom">
+                     <hi>Act.</hi> 8.</note> 
+                  <hi>Le don de Dieu ne s'acquiert point par argent.</hi> Que la multitude, ou l'énormité de vos pechez, ne vous éloigne pas de vô<g ref="char:EOLhyphen"/>tre Dieu; <note n="‖" place="bottom">
+                     <hi>Rom.</hi> 5.</note> 
+                  <hi>Où le peché abonde, la grace de Dieu abonde par deſſus. <note n="†" place="bottom">
+                        <hi>Eſaie</hi> 1.</note> Quand vos pechez ſeroient rouges comme l'écarlate,</hi> ſi vous vous en repentez,
+<hi>ils ſeront blanchis comme de la neige.</hi>
+               </p>
+               <p>Grand Dieu, regarde nous donc en tos plus tendres compaſſions. Nous recourrons à toy ſeul, à qui irions
+<pb n="54" facs="tcp:184761:32"/>nous, Seigneur, c'eſt toy qui as les paroles de vie éternelle. Voicy, nous te preſentons comme David, un coeur froiſſé &amp; briſé; ne mépriſe point les ſoupirs de ce coeur affligé, &amp; fais paſſer outre nôtre peché. Nous fendons le Ciel comme Manaſſé, par nos gemiſſemens &amp; par nos ſan<g ref="char:EOLhyphen"/>glots: tu as été appaiſé envers cet inſigne pecheur, ſois donc auſſi ap<g ref="char:EOLhyphen"/>paiſé envers nous. Nous fondons en larmes comme la pauvre peche<g ref="char:EOLhyphen"/>reſſe, prononce donc ſur nous l'abſo<g ref="char:EOLhyphen"/>lution, que tu prononças ſur elle, &amp; nous dis <hi>Vos pechez vous ſont pardon<g ref="char:EOLhyphen"/>nez, vôtre foy vous a ſauvez, allez en paix.</hi> Nous frappons nôtre poi<g ref="char:EOLhyphen"/>trine comme le Pe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ger, &amp; nous nous écrions avec luy, ô Dieu, ſois appaiſé envers nous qui ſommes pe<g ref="char:EOLhyphen"/>cheurs; fais par ta grace, que com<g ref="char:EOLhyphen"/>me luy, nous retournions juſtifiez en nos maiſons. Nous pleurons ame<g ref="char:EOLhyphen"/>rement comme Saint Pierre; tu luy as pardonné ſa lâcheté, pardonne nous donc auſſi toutes les nôtres.</p>
+               <p>Enfin, nous nous tournons vers
+<pb n="55" facs="tcp:184761:32"/>ta Croix comme le Larron Penitent, ſouviens toy de nous, Seigneur, maintenant que tu eſt entré en ton regne: Fais nous entendre ces paroles de conſolation, <hi>En verité je vous dis, qu'aujourd'huy vous ſerez en Paradis avec moy.</hi> Ou ſi dès aujourd'huy tu ne veux pas donner la liberté à nô<g ref="char:EOLhyphen"/>tre ame priſonniere, du moins dès aujourd'huy, en luy communiquant les graces de ton Jubilé, conſole la dans ce corps mortel, où elle ſoupire ſans ceſſe après toy, &amp; luy donne quelques avant — goûts de la gloire que tu luy prepares.</p>
+               <closer>AMEN.</closer>
+               <trailer>Fin du Vray Jubilé.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
